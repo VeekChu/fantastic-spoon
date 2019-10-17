@@ -8,10 +8,10 @@ description: 致敬伟大的Einstein
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: https://images.app.goo.gl/K68bAGzz9HbQ5gap6
+avatar: /images/Einstein300.jpg
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://images.app.goo.gl/GAcxkLy327kiVoGw5
+favicon: /images/Einstein64
 
 
 # 菜单中的按钮
@@ -36,10 +36,10 @@ footer-links:
   #weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   #behance: # https://www.behance.net/<>
   #dribbble: # https://dribbble.com/<>
-  email: fromendworld@outlook.com 
+  email: vsir125geek@gmail.com 
   #facebook: #https://www.facebook.com/<>
   #flickr: #https://www.flickr.com/<>
-  github: FromEndWorld/loffer #https://github.com/<>
+  github: https://github.com/VeekChu #https://github.com/<>
   #instagram: #https://instagram.com/<>
   #linkedin: #https://www.linkedin.com/in/<>
   #pinterest: #https://www.pinterest.com/<>
